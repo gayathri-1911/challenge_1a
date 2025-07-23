@@ -108,18 +108,18 @@
         "language": "en"
     },
     "key_phrases": [
-        "Libraries Working Together",
-        "To Present",
-        "Implementing Ontario",
-        "The Ontario Digital Library",
-        "Prr Prr Prr Proposaloposal",
+        "RRFP",
+        "Road Map",
+        "Critical Component",
+        "Business Plan",
         "Ontario Digital Library March",
+        "The Ontario Digital Library",
+        "To Present",
         "Digital Library",
         "RFP",
-        "Road Map",
-        "Business Plan",
-        "RRFP",
-        "Critical Component"
+        "Prr Prr Prr Proposaloposal",
+        "Libraries Working Together",
+        "Implementing Ontario"
     ],
     "important_fields": {
         "emails": [
@@ -127,63 +127,63 @@
             "lmoore@accessola.com"
         ],
         "dates": [
-            "March 21, 2003",
-            "April 21, 2003",
-            "September 30, 2003",
             "May 5, 2003",
             "August 1, 2003",
+            "March 21, 2003",
+            "September 30, 2003",
+            "April 21, 2003",
             "April 28, 2003"
         ],
         "urls": [
             "www.odl.on.ca"
         ],
         "versions": [
-            "4",
-            "3"
+            "3",
+            "4"
         ],
         "addresses": [
-            "1 Service on the St",
-            "11 th that they will be submitting a proposal will not receive any further information or quest",
-            "35 Million request",
-            "3 The Steering Com mittee is accountable to its constituent groups and other st",
-            "2003 The Ontario Digital Library will make Ontario a better place to st",
-            "2 Travel and meeting expenses for Steering Committee members are reimbursed accord",
-            "3 above are responsible for appointing up to two representatives to the St",
-            "2006 represent an invest",
-            "000 jointly funded by st",
-            "77 Evaluation and Awarding of Contract The contract will be awarded to the bidder whose submission offers the best",
-            "2 Desired characteristics for st",
-            "2003 Funding Request",
-            "2006 Funding Request",
-            "10 million Ontario citizens We will eliminate barriers to the access to information and create more consist",
-            "100 Lombard St",
             "9 undertaking advocacy efforts to promote the ODL to the broad",
+            "10 million Ontario citizens We will eliminate barriers to the access to information and create more consist",
+            "3 The Steering Com mittee is accountable to its constituent groups and other st",
             "66 the marketing and communications plan for the ODL the commitment of all stakeholders to their responsibilities The process of developing this business plan must be extremely consultative to ensure that all stakeholders are engaged in creating a synergist",
+            "2003 Funding Request",
+            "11 th that they will be submitting a proposal will not receive any further information or quest",
+            "1 Service on the St",
+            "2 Desired characteristics for st",
+            "3 above are responsible for appointing up to two representatives to the St",
+            "77 Evaluation and Awarding of Contract The contract will be awarded to the bidder whose submission offers the best",
             "3 Conflict of Interest",
+            "2006 represent an invest",
+            "2006 Funding Request",
+            "2 Travel and meeting expenses for Steering Committee members are reimbursed accord",
+            "2003 The Ontario Digital Library will make Ontario a better place to st",
             "2 consulting with and reporting to st",
-            "1 The St"
+            "1 The St",
+            "35 Million request",
+            "100 Lombard St",
+            "000 jointly funded by st"
         ],
         "prices": [
-            "$3.75",
-            "$5.00",
-            "$33.75",
+            "$4",
+            "$0",
             "$35",
+            "$5.00",
+            "$100,000",
+            "$75",
+            "$3.75",
+            "$33.75",
             "$50",
             "$22",
-            "$75",
             "$15",
-            "$0",
             "$2",
-            "$10",
-            "$4",
-            "$100,000"
+            "$10"
         ],
         "id_numbers": [
             "entified"
         ],
         "references": [
-            "erence",
-            "erences"
+            "erences",
+            "erence"
         ]
     }
 }
