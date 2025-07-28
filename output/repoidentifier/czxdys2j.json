@@ -1,0 +1,202 @@
+{
+    "title": "IBM Communications Server for Data Center",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "IBM Communications Server for Data Center",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "Deployment on AIX",
+            "page": 0
+        },
+        {
+            "level": "H1",
+            "text": "IBM",
+            "page": 0
+        },
+        {
+            "level": "H1",
+            "text": "GC88-6947-06",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "本書および本書で紹介する製品をご使用になる前に、 99 ページの『付録 B 特記事項』 に記載されてい",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "る情報をお読みください。",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "第 7 版 (2021 年 1 月)",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "本書は、 IBM Communications Server for Data Center Deployment on AIX 7.1 ( プログラム番号 5725-H32) に適用されま",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "す。また、新しい版またはテクニカル・ニュースレターで明記されていない限り、以降のすべてのリリースおよびモディ",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "フィケーションに適用されます。",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "資料のご注文方法については、 http:/ /www.ibm.com/jp/manuals の「ご注文について」をご覧ください。 (URL は、変更に",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "なる場合があります )",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "IBM にお客様のご意見をお寄せください。 本資料に関するご意見やご感想は、 次の URL からお送りください。今後の参考",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "にさせていただきます。 http:/ /www.ibm.com/jp/manuals/main/mail.html フォームが削除されている場合は、以下の住所",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "までご意見をお送りください。",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "International Business Machines Corporation",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Department CGMD",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "P.O. Box 12195",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Research Triangle Park, North Carolina",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "27709-2195",
+            "page": 1
+        }
+    ],
+    "metadata": {
+        "total_pages": 130,
+        "estimated_word_count": 22985,
+        "language": "en"
+    },
+    "key_phrases": [
+        "Research Triangle Park",
+        "AIX",
+        "North Carolina",
+        "IBM",
+        "Data Center Deployment",
+        "Communications Server",
+        "GC88",
+        "International Business Machines Corporation",
+        "Copyright International Business Machines"
+    ],
+    "important_fields": {
+        "emails": [
+            "mhvrcfs@us.ibm.com",
+            "USIB2HPD@vnet.ibm.com"
+        ],
+        "phones": [
+            "(800) 227-5088"
+        ],
+        "dates": [
+            "3-2-12"
+        ],
+        "urls": [
+            "www.ibm.com/support/home/",
+            "www.ibm.com/products/communications-server-for-data-center",
+            "www.ibmlink.ibm.com",
+            "www.ibm.com/support/pages/node/594013",
+            "www.redbooks.ibm.com",
+            "www.ibm.co.jp",
+            "www.ibm.com/jp/manuals/main/mail.html",
+            "www.ibm.com",
+            "www.networking.ibm.com/app/aiwhome.htm)",
+            "www.ibm.com/software",
+            "www.ibm.com/support/",
+            "www.ibm.com/jp/manuals",
+            "www.ibm.com/",
+            "www.ibm.com/products/communications-server-for-data-",
+            "www.ibm.com/software/network/",
+            "www.ibm.com/developerworks/",
+            "www.ibm.com/mysupport/s/topic/",
+            "www.ibm.com/it-infrastructure/power",
+            "www.ibm.com/software/network"
+        ],
+        "versions": [
+            "4.06",
+            "1",
+            "2012",
+            "25",
+            "2",
+            "6.0.1",
+            "35",
+            "3",
+            "2019",
+            "4",
+            "5",
+            "12",
+            "2016",
+            "6",
+            "70",
+            "7.1"
+        ],
+        "addresses": [
+            "45 installing a Remote API Client on Linux for Syst",
+            "44 Installing the Remote API Client on Linux for Syst",
+            "2455 South Road",
+            "47 Remote API Client on Linux for Syst",
+            "3039 Cornwallis Road",
+            "3270 Information Display Syst",
+            "3174 Est",
+            "38 Remote API Client on Linux for Syst",
+            "46 Remote API Client on Linux for Syst",
+            "70 host",
+            "40 Remote API Client on Linux for Syst",
+            "73 licensed program Remote API Client on Linux for Syst",
+            "37 Remote API Client on Linux for Syst",
+            "44 Remote API Client on Linux for Syst",
+            "2 Operating Syst",
+            "47  to remove it before inst",
+            "3270 Datast",
+            "50 Remote API Client on Linux for Syst",
+            "13 Syst",
+            "49 Remote API Client on Linux for Syst",
+            "46 I inst",
+            "45 inst",
+            "49 Linux for Syst",
+            "50 Installing the Remote API Client by copying files  to your AIX workst",
+            "43 Linux for Syst"
+        ],
+        "references": [
+            "erence"
+        ]
+    }
+}

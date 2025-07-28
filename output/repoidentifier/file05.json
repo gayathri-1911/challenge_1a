@@ -68,11 +68,11 @@
         "language": "en"
     },
     "key_phrases": [
-        "PIGEON",
         "PARKWAY",
-        "ADDRESS",
         "TOPJUMP",
-        "FORGE"
+        "PIGEON",
+        "FORGE",
+        "ADDRESS"
     ],
     "important_fields": {
         "urls": [

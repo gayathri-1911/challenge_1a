@@ -108,19 +108,19 @@
         "language": "en"
     },
     "key_phrases": [
-        "Board Copyright Notice This",
-        "JUNE",
-        "WG",
         "Agile Tester Qualifications Board",
-        "Overview Software Testing Foundation",
-        "ISTQB",
         "Board Qualifications Board International",
-        "NOV",
-        "JULY",
+        "JUNE",
         "International Software Testing Qualifications",
-        "International Overview Software Testing",
+        "NOV",
         "Foundation Level Extension",
-        "Overview Foundation Level Extensions"
+        "Board Copyright Notice This",
+        "Overview Foundation Level Extensions",
+        "International Overview Software Testing",
+        "ISTQB",
+        "JULY",
+        "WG",
+        "Overview Software Testing Foundation"
     ],
     "important_fields": {
         "dates": [
@@ -130,31 +130,31 @@
             "www.istqb.org"
         ],
         "versions": [
-            "1.0",
-            "2014",
             "0.2",
-            "2013"
+            "1.0",
+            "2013",
+            "2014"
         ],
         "addresses": [
-            "0 International Software Testing Qualifications Board",
-            "2 The following figure shows the structure of the Agile Test",
-            "3 Support the Agile team in planning test",
-            "7 Work and share information with other team members using effective communication st",
-            "6 Keeping It Current The software indust",
-            "2 Career Paths for Test",
-            "6 Assist business stakeholders in def ining understandable and testable user st",
-            "5 Assist the Agile team in test",
-            "2 Adapt existing test",
-            "1 Business Outcomes This section list",
+            "4 Apply relevant methods and techniques for test",
             "1 Trademarks The following regist",
-            "4 Apply relevant methods and techniques for test"
+            "2 Adapt existing test",
+            "5 Assist the Agile team in test",
+            "2 Career Paths for Test",
+            "0 International Software Testing Qualifications Board",
+            "1 Business Outcomes This section list",
+            "2 The following figure shows the structure of the Agile Test",
+            "6 Keeping It Current The software indust",
+            "7 Work and share information with other team members using effective communication st",
+            "6 Assist business stakeholders in def ining understandable and testable user st",
+            "3 Support the Agile team in planning test"
         ],
         "id_numbers": [
             "entifier"
         ],
         "references": [
-            "erence",
             "erences",
+            "erence",
             "lect"
         ]
     }
